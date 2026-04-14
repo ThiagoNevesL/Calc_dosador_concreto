@@ -14,7 +14,7 @@ Aplicativo desktop desenvolvido em Python (Tkinter) que calcula o traço de conc
 
 ##  Como executar
 1. Clone o repositório
-2. Execute `python dosador_concreto.py` (requer Python 3.6+ com Tkinter)
+2. Execute `calc_traco_concreto.py` (requer Python 3.6+ com Tkinter)
 
 ## Fundamentação teórica
 Baseado nas tabelas e curvas do método ABCP, NBR 12655 e curvas de Abrams, com ajustes para diferentes agregados.
